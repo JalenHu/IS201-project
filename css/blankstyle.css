@@ -1,0 +1,25 @@
+.responsive-img{
+    max: width 100%;
+    height:auto;
+}
+
+body {
+    background-color: burlywood;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    text-align: center;
+}
+
+h3{
+    font-style: italic;
+}
+
+footer{
+    background-color:darkslategray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align:center;
+    padding:20px;
+}
